@@ -5,7 +5,7 @@
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com//pybank.git
+    git clone https://github.com/dev-aryan-com/pybank.git
     ```
 
 3.  **Install Dependencies:**
