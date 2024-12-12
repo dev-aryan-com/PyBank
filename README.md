@@ -1,8 +1,6 @@
 # PyBank: A Simple Banking Application
-====================================
 
 ## Getting Started
----------------
 
 1.  **Clone the Repository:**
 
@@ -21,7 +19,6 @@ No external libraries are required. This project uses Python's standard library.
     ```
 
 ## Usage
------
 
 PyBank provides a simple command-line interface to perform various banking operations. Here's a breakdown of the available options:
 
@@ -42,16 +39,13 @@ PyBank provides a simple command-line interface to perform various banking opera
 *   **\[L\] Logout:** Logout of your account.
 
 ## Contributing
-------------
 
 We welcome contributions to improve PyBank. Feel free to fork the repository, make changes, and submit a pull request.
 
 ## License
--------
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-------
 
 ⭐️ From [Aryan Raj](https://github.com/dev-aryan-com)
